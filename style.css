@@ -47,9 +47,9 @@ body
 {
     width: 130px;
     hight: 230px;
-    padding-left: 500px;
+    padding-left: 300px;
 }
 .box .imgBx img
 {
-    max-width: 50%;
+    max-width: 200%;
 }
