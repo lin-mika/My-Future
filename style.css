@@ -3,7 +3,7 @@ body
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background: #939393;
+    background: #7e7e7e;
 }
 .box
 {
@@ -28,7 +28,7 @@ body
 {
     width: 260px;
     hight: 460px;
-    flex: 0 0 150px;
+    padding-left: 150px;
 }
 .box .imgBx img
 {
@@ -36,13 +36,13 @@ body
 }
 .box .content 
 {
-    padding-left: 150px;
+    flex: 0 0 150px;
 }
 .box .content h1
 {
     margin: 0;
     padding: 5% 10%;
-    color: #939393;
+    color: #7e7e7e;
     ffont-size:x-large;
 }
 .box .content p
