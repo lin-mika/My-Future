@@ -36,13 +36,13 @@ body
 }
 .box .content 
 {
-    padding-left: 180px;
+    padding-left: 150px;
 }
 .box .content h1
 {
     margin: 0;
     padding: 5% 10%;
-    color: #7e7e7e;
+    color: #545454;
     ffont-size:x-large;
 }
 .box .content p
