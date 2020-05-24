@@ -26,8 +26,8 @@ body
 }
 .box .imgBx
 {
-    width: 260px;
-    hight: 460px;
+    width: 130px;
+    hight: 230px;
     flex: 0 0 150px;
 }
 .box .imgBx img
