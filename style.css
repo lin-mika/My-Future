@@ -3,7 +3,7 @@ body
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background: #7e7e7e;
+    background: #939393;
 }
 .box
 {
@@ -28,7 +28,7 @@ body
 {
     width: 272px;
     hight: 472px;
-    padding-left: 150px;
+    flex: 0 0 150px;
 }
 .box .imgBx img
 {
@@ -36,21 +36,20 @@ body
 }
 .box .content 
 {
-    flex: 0 0 150px;
-    padding-left: 0px;
+    padding-left: 150px;
 }
-.box .content h2
+.box .content h1
 {
     margin: 0;
-    padding: 10% 10%;
-    color: #7e7e7e;
-    font-size: x-large;
+    padding: 5% 10%;
+    color: #939393;
+    ffont-size:x-large;
 }
 .box .content p
 {
     font-family: "Lucida Console", Courier, monospace;
     margin: 0;
-    padding: 10px 55px 3px;
+    padding: 10px 35px 3px;
     text-align: justify;
-    font-size: large;
+    font-size:large;
 }
