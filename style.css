@@ -24,10 +24,19 @@ body
 {
     box-shadow: 0 15px 30px rgba(0,0,0,0.5);
 }
+.box .imgBx
+{
+    width: 260px;
+    hight: 460px;
+    flex: 0 0 120px;
+}
+.box .imgBx img
+{
+    max-width: 200%;
+}
 .box .content 
 {
-    width: 300px;
-    flex: 0 0 10px;
+    padding-left: 150px;
 }
 .box .content h1
 {
@@ -43,14 +52,4 @@ body
     padding: 10px 35px 3px;
     text-align: justify;
     font-size:large;
-}
-.box .imgBx
-{
-    width: 130px;
-    hight: 230px;
-    padding-left: 300px;
-}
-.box .imgBx img
-{
-    max-width: 200%;
 }
