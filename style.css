@@ -26,6 +26,7 @@ body
 }
 .box .content 
 {
+    width: 300px;
     flex: 0 0 10px;
 }
 .box .content h1
